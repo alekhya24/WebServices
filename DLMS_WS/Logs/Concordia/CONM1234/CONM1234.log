@@ -1,0 +1,12 @@
+Apr 14, 2019 12:11:55 PM Client.UserClientImpl borrowItem
+INFO: UserClient: Initiating Borrow Item
+Apr 14, 2019 12:11:55 PM Client.UserClientImpl returnItem
+INFO: UserClient: Initiating Return Item
+Apr 14, 2019 12:11:55 PM Client.ManagerClientImpl addItem
+INFO: ManagerClient: Initiating Add Item
+Apr 14, 2019 12:11:55 PM Client.UserClientImpl borrowItem
+INFO: Success
+Apr 14, 2019 12:11:55 PM Client.UserClientImpl returnItem
+INFO: No such item borrowed.Please try again
+Apr 14, 2019 12:11:55 PM Client.ManagerClientImpl addItem
+INFO: Item is added Distributed with key: CON3333

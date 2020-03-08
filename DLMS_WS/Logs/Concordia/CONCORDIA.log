@@ -1,0 +1,30 @@
+Apr 14, 2019 12:11:50 PM UDP.ServerUDP <init>
+INFO: CON UDP Server Started
+Apr 14, 2019 12:11:50 PM UDP.ServerUDP <init>
+INFO: MCG UDP Server Started
+Apr 14, 2019 12:11:50 PM UDP.ServerUDP <init>
+INFO: MON UDP Server Started
+Apr 14, 2019 12:11:55 PM Server.ServerImpl returnItem
+INFO: Date & Time: 2019-04-14T12:11:55.785REQUEST TYPE:return Item; REQUEST PARAMETERS: userId:CONU1234,itemID:CON3333
+Apr 14, 2019 12:11:55 PM Server.ServerImpl returnItem
+INFO: No such item borrowed.Please try again
+Apr 14, 2019 12:11:55 PM Server.ServerImpl returnItem
+INFO: ReturnItem Server Response:No such item borrowed.Please try again
+Apr 14, 2019 12:11:55 PM Server.ServerImpl returnItem
+INFO: ReturnItem Request Successfully Completed
+Apr 14, 2019 12:11:55 PM Server.ServerImpl assignWaitlistingMembers
+INFO: Date & Time: 2019-04-14T12:11:55.801REQUEST TYPE:Assign Waitlisting members; REQUEST PARAMETERS: itemID:CON3333
+Apr 14, 2019 12:11:55 PM Server.ServerImpl assignWaitlistingMembers
+INFO: AssignWaitingListMembers Server Response: No waiting list members for CON3333
+Apr 14, 2019 12:11:55 PM Server.ServerImpl borrowItem
+INFO: Date & Time: 2019-04-14T12:11:55.804REQUEST TYPE:borrow Item; REQUEST PARAMETERS: userId:CONU1234,itemID:CON3333
+Apr 14, 2019 12:11:55 PM Server.ServerImpl borrowItem
+INFO: BorrowItem Server Response:No Item exists with item Id: CON3333
+Apr 14, 2019 12:11:55 PM Server.ServerImpl borrowItem
+INFO: BorrowItem Request Successfully Completed
+Apr 14, 2019 12:11:55 PM Server.ServerImpl addItem
+INFO: Date & Time: 2019-04-14T12:11:55.810; REQUEST TYPE:Add Item; REQUEST PARAMETERS: managerId:CONM1234,itemId:CON3333,itemName:Distributed,quantity:1
+Apr 14, 2019 12:11:55 PM Server.ServerImpl addItem
+INFO: AddItem Server Response: Item is added Distributed with key: CON3333
+Apr 14, 2019 12:11:55 PM Server.ServerImpl addItem
+INFO: AddItem Request Successfully completed
